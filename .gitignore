@@ -55,6 +55,10 @@ coverage.xml
 *.mo
 *.pot
 
+# Tensorboard
+runs/
+
+
 # Django stuff:
 *.log
 local_settings.py
